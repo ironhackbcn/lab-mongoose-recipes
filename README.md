@@ -58,7 +58,7 @@ Now you should have six different recipes in the database, but there was a mista
 
 ### Iteration 5 - Remove a recipe
 
-Oh oh! The `Carrot Cake` is no longer available, so we need to remove it from the database. Using the `Model.remove` method, remove that recipe from the database and display a success message after doing it!
+Oh oh! The `Carrot Cake` is no longer available, so we need to remove it from the database. Using the `Model.deleteOne` method, remove that recipe from the database and display a success message after doing it!
 
 ### Iteration 6 - Close the Database
 
